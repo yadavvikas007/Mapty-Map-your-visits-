@@ -1,0 +1,27 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Visits Mapping Application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavvikas007/Mapty-Map-your-visits-.git"
+  },
+  "keywords": [
+    "OpenStreetMaps",
+    "Leaflet"
+  ],
+  "author": "Vikas Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavvikas007/Mapty-Map-your-visits-/issues"
+  },
+  "homepage": "https://github.com/yadavvikas007/Mapty-Map-your-visits-#readme",
+  "dependencies": {
+    "parcel": "^2.4.0"
+  }
+}
